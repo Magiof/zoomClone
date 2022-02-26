@@ -1,0 +1,20 @@
+{
+  "name": "nomad_zoom",
+  "version": "1.0.0",
+  "description": "Zoom Clone using WebRTC and Websockets",
+  "keywords": [],
+  "type":"module",
+  "author": "",
+  "license": "MIT",
+  "scripts":{
+    "dev": "nodemon"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.17.6",
+    "@babel/core": "^7.17.5",
+    "@babel/node": "^7.16.8",
+    "@babel/preset-env": "^7.16.11",
+    "@babel/register": "^7.17.0",
+    "nodemon": "^2.0.15"
+  }
+}
